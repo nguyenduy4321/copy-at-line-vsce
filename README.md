@@ -22,6 +22,7 @@ Both options are accessible via right-click context menu in the editor under the
 
 🖱️ Right-click context menu:
 
+![Context Menu](media/context-menu.png)
 
 ## Requirements
 
